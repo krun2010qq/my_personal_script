@@ -1,0 +1,4 @@
+echo 'address: tanzu-csp-1.tanzu-gss-labs.vmware.com'
+echo 'username: paassupport'
+echo 'password: zj8&0lzyh4N#vW5Q'
+echo 'path:/data/logs/'"$CASE_NUM"

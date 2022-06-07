@@ -1,0 +1,2 @@
+tell application "Google Chrome" to return title of active tab of front window
+
